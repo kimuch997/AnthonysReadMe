@@ -40,7 +40,6 @@ I'm a passionate Computer Science student with experience in Back-end. I love ta
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
-
+- **[LinkedIn]**linkedin.com/in/anthony-kimathi
+- **[Twitter]**(https://x.com/justkimuch)
 
